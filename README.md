@@ -1,6 +1,6 @@
 <!-- markdownlint-disable-next-line MD041 -->
 ![Antony's GitHub Banner](./assets/GitHubBanner.svg)
 
-### Software Developer | TypeScript | Node.js | Microservices | Software Architecture | React | AWS
+### Backend Engineer | AWS | Microservices & Event-Driven Architectures | Cloud-Native & Serverless
 
-Electronic Engineer with experience in software development and architecture. Skilled in creating scalable and maintainable solutions, with a strong commitment to following best development practices.
+Backend Engineer con sólida experiencia en el diseño y desarrollo de arquitecturas distribuidas y soluciones cloud-native sobre AWS. Especializado en arquitecturas orientadas a eventos e integración de microservicios bajo principios de arquitectura limpia que garantizan escalabilidad, testabilidad y mantenibilidad, priorizando siempre la calidad técnica.
